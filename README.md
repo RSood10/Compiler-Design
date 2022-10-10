@@ -10,8 +10,9 @@ To Run program -
 1. Save the code with the .l extension.
 2. Open cmd to the root directory/folder.
 3. flex file_name.l
-   gcc lex.yy.c                                           // if there is an error in this step check gcc
-   a
+   gcc lex.yy.c       
+   a                                    // if there is an error in this step2 check gcc
+   
 4. Done.
 
 
