@@ -11,7 +11,7 @@ To Run program -
 2. Open cmd to the root directory/folder.
 3. flex file_name.l
    gcc lex.yy.c                                           // if there is an error in this step check gcc
-    a
+   a
 4. Done.
 
 
