@@ -9,9 +9,9 @@ System Requirements to execute are -
 To Run program -
 1. Save the code with the .l extension.
 2. Open cmd to the root directory/folder.
-3.1. flex file_name.l
-  2. gcc lex.yy.c                                           // if there is an error in this step check gcc
-  3. a
+3.a. flex file_name.l
+  b. gcc lex.yy.c                                           // if there is an error in this step check gcc
+  c. a
 4. Done.
 
 
