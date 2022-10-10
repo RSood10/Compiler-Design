@@ -1,5 +1,5 @@
 # Compiler-Design
-
+(click on last link for pdf of steps.)
 System Requirements to execute are -
 1. flex install                              https://sourceforge.net/projects/gnuwin32/files/flex/2.5.4a-1/ 
 2. Bison install                             https://sourceforge.net/projects/gnuwin32/files/bison/2.4.1/
@@ -9,9 +9,9 @@ System Requirements to execute are -
 To Run program -
 1. Save the code with the .l extension.
 2. Open cmd to the root directory/folder.
-3.a. flex file_name.l
-  b. gcc lex.yy.c                                           // if there is an error in this step check gcc
-  c. a
+3. flex file_name.l
+   gcc lex.yy.c                                           // if there is an error in this step check gcc
+   a
 4. Done.
 
 
